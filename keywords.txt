@@ -1,0 +1,13 @@
+
+Motor	KEYWORD1
+LED	KEYWORD1
+DistanceSensor	KEYWORD1
+MicroSwitch	KEYWORD1
+
+forward	KEYWORD2
+reverse	KEYWORD2
+stop	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+blink	KEYWORD2
+read	KEYWORD2
